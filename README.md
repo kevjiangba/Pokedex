@@ -7,8 +7,7 @@ Pokedex app for people to look up statistics and information for over 800 Pokemo
 
 **How to Use**
 
-The homepage allows users to search for Pokemon in 3 ways: by name/number, by category (type or with a minimum attack/defense/HP) 
-, or a random list of 20 Pokemon.  After a list of pokemon is generated, users are able to click a Pokemon to bring up details
+The homepage allows users to search for Pokemon in 3 ways: by name/number, by category (type or with a minimum attack/defense/HP), or a random list of 20 Pokemon.  After a list of pokemon is generated, users are able to click a Pokemon to bring up details
 about the Pokemon, including its stats, picture, species, and web page on Google.
 
 **Features**
